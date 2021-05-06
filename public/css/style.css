@@ -1,0 +1,26 @@
+.bgLogin{
+    background-image: url('../photos/background.jpg');
+    background-size: cover;
+}
+.loginStyle{
+    background: rgba(0,0,0,.6);
+    margin-top: 20%;
+    padding: 30px;
+    border-radius: 20px;
+    border-style: none;
+    color: #fff;
+}
+.content-wrapper{
+    background:unset;
+}
+.nav-sidebar .nav-item>.nav-link{
+    color:#C09F5D;
+}
+aside.main-sidebar.sidebar-dark-primary.elevation-4 {
+    background-color: #22293a;
+}
+.page-item.active .page-link,
+.btn-success{
+    background-color: #c0a05d!important;
+    border-color: #c0a05d!important;
+}
